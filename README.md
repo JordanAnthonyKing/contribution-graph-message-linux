@@ -1,4 +1,10 @@
-# contirbution + mutation = contributation
+This is a fork of https://github.com/5tefan/contribution-graph-message for GNU/Linux
+
+There *are* bugs. I *highly* recommend running this script in its own repositor that you can easily delete to clean up your timeline.
+
+The original README follows.
+
+## contirbution + mutation = contributation
 
 Write messages on your profile using the contribution frequency visualization.
 
